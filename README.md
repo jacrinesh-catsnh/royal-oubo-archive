@@ -1,2 +1,14 @@
 # royal-oubo-archive
-HTML page archive and documentation
+
+静态页面发布集合
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
